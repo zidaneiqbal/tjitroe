@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Ftjitroe\u002F_nuxt\u002Fstatic\u002F1711486247",layout:"default",error:a,state:{searchPopupStatus:false},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:b,assetsPath:"\u002Ftjitroe\u002F_nuxt\u002F",cdnURL:a,baseURL:b,buildAssetsDir:"assets"}}}}(null,"\u002Ftjitroe\u002F"));
